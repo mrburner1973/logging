@@ -260,7 +260,14 @@ Example:
 
 ## 📄 License
 
-This project is in the public domain. Feel free to use, modify, and distribute as needed.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+The MIT License allows you to:
+- ✅ Use the code commercially
+- ✅ Modify and distribute
+- ✅ Include in private projects
+- ✅ Sublicense
+- ⚠️ Must include license and copyright notice
 
 ## 🤝 Contributing
 

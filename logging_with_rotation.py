@@ -12,6 +12,9 @@ Features:
 - Multiple log levels
 - UTF-8 encoding
 - Automatic directory creation
+
+License: MIT License
+Copyright (c) 2025 Marc Peters
 """
 
 import logging
